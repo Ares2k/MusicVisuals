@@ -29,3 +29,4 @@ Using the minim library the configured shapes and patterns respond to music and 
 I'm most proud of being able to advance my programming skills and learning to program with external libraries. The ability to visually see your work in different colors with live reponse to any selected music of yours is rewarding because you're able to see that you have done it yourself.
 
 Youtube link:
+https://youtu.be/v7O2Pz10-T4
